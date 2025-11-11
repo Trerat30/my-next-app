@@ -98,10 +98,17 @@ display: flex;
 }
 
 .status {
+
+  height: 30px;
+  width: 10%;
   display: inline-block;
   margin-top: 10px;
   font-weight: bold;
-  color: green;
+  color: #fff;
+  background-color: #16CD41;
+  border-radius: 5px;
+  text-align: center;
+  padding-top: 10px;
 }
 
 .actions-box {

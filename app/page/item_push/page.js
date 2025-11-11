@@ -36,7 +36,7 @@ export default function ItemPublished() {
               <p className="author">Kenneth Bulmer</p>
               <span className="category">Digital Art</span>
               <p className="description">
-                "Ocean's Whisper" is a digital artwork that captures the quiet yet powerful dialogue between the sea and the human soul...
+                “Ocean’s Whisper” is a digital artwork that captures the quiet yet powerful dialogue between the sea and the human soul. Gentle shades of blue and turquoise flow seamlessly across the canvas, evoking the endless horizon where water meets sky. The composition embodies both serenity and mystery—the calm surface concealing untold depths beneath. Every detail reflects the rhythm of the tides, reminding viewers that the ocean does not shout; it whispers its secrets to those who are willing to listen.
               </p>
               <span className="status">Published</span>
             </div>
